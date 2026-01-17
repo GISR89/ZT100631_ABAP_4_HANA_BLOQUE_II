@@ -1,2 +1,2 @@
-# ZT100631_ABAP_4_HANA_BLOQUE_II
-ZT100631_BLOQUE_II
+# Bloque II - CDS Core Data Services
+Bloque II - CDS Core Data Services
